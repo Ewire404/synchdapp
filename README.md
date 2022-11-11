@@ -8,7 +8,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
-<!-- SITE TITLE -->
+<!-- SITE TITLE -->synchdapp
 <title>Rango.Exchange&#8211; Best X-Chain Dex aggregator</title>
 <!-- Favicon Icon -->
 <!-- Animation CSS -->
